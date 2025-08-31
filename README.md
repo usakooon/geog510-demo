@@ -19,3 +19,7 @@ This is _italic_.
 [geography.utk.edu](https://geography.utk.edu)
 
 ![zootopia](https://i.imgur.com/ZBwwcjo.gif)
+
+```python
+print("Hello, world")
+```
